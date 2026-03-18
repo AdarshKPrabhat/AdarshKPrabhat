@@ -50,35 +50,54 @@ Microsoft Azure (AZ-900 Certified)
 Tech Stack: ASP.NET Core MVC, Entity Framework Core, SQL
 
 Developed a full-stack e-commerce platform using ASP.NET Core MVC architecture
+
 Implemented product management, authentication, shopping cart, and checkout workflow
+
 Designed relational database schemas and implemented efficient CRUD operations
+
 Built Admin and Customer modules for product and order management
 
 🩺 Doctor’s Prescription Automation using NLP
+
 Tech Stack: Python, NLP, Speech-to-Text
+
 Built an NLP-based system to convert doctor–patient conversations into structured digital prescriptions
+
 Implemented speech-to-text processing, tokenization, multilingual translation
+
 Automated medical documentation generation with PDF export
 
 🤟 Speech-to-Text System with ASL Output
+
 Tech Stack: Python, Raspberry Pi
+
 Developed a speech-to-text system that converts spoken words into ASL character output
+
 Integrated Raspberry Pi hardware with Python processing modules
+
 Enabled real-time speech interpretation for accessibility applications
 
 📰 E-Magazine Content Platform
+
 Tech Stack: ASP.NET MVC, Sitefinity CMS
+
 Developed scalable author and editor dashboards
+
 Implemented content workflows and backend data management
+
 Built a content publishing platform for enterprise clients
+
 🏢 Professional Experience
 Software Engineer — Cybage Software
 
 📍 Hyderabad | 2021 – 2023
 
 Developed enterprise web applications using ASP.NET MVC and C#
+
 Built backend modules including authentication systems and REST APIs
+
 Optimized backend logic and database queries for performance improvements
+
 Worked in Agile sprint cycles with code reviews and production deployments
 
 🎓 Education
